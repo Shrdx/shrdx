@@ -68,15 +68,17 @@
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Shrdx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats-fast.vercel.app/api?username=Shrdx&show_icons=true&theme=tokyonight&hide_border=true"
   height="170"
-  alt="Sharad's GitHub Stats"
+  alt="GitHub Stats"
 />
 
+<br/><br/>
+
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrdx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shrdx&layout=compact&theme=tokyonight&hide_border=true"
   height="170"
-  alt="Sharad's Most Used Languages"
+  alt="Most Used Languages"
 />
 
 </div>
