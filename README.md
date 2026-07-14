@@ -1,56 +1,108 @@
-# Hi 👋! My name is Sharad Sharma
+<div align="center">
 
-## About Me
-I'm a Software Developer from New Delhi, India, passionate about creating innovative solutions and constantly learning new technologies.
+# 👋 Hi, I'm Sharad Sharma
+
+### Software Developer | B.Tech IT Student | Backend & Cloud Enthusiast
+
+<p>
+  Building practical software, exploring modern backend technologies, and continuously improving my problem-solving skills.
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/sharad-sharma-35687a353/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sharadsharma1183@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/shrd.shrma/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 👨‍💻 About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shrdx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shrdx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
+- 🎓 B.Tech Information Technology student based in New Delhi, India
+- 💻 Interested in Backend Development, Cloud Computing, DevOps, and Blockchain
+- 🌱 Currently improving my Data Structures & Algorithms and software development skills
+- 🚀 Building practical projects and exploring scalable backend technologies
+- ☁️ Learning more about modern cloud infrastructure and deployment
+- 🎯 Working towards becoming a strong Software Development Engineer
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" title="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" title="C" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" title="C++" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" title="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" title="Linux" />
-</div>
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,javascript,python,c,cpp" alt="Programming Languages" />
+</p>
+
+### Web & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,react,nextjs" alt="Web and Backend Technologies" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" alt="Databases" />
+</p>
+
+### Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vercel,vscode" alt="Tools and Technologies" />
+</p>
 
 ---
 
-## 🌐 Connect with Me
-
-<div align="left">
-  <a href="https://www.instagram.com/shrd.shrma/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="https://discord.com/users/1342442014381182987" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
-  <a href="mailto:sharadsharma1183@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/sharad-sharma-35687a353/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
-
----
+## 📊 GitHub Statistics
 
 <div align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad."</i>
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Shrdx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  height="170"
+  alt="Sharad's GitHub Stats"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrdx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  height="170"
+  alt="Sharad's Most Used Languages"
+/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=Shrdx&theme=tokyonight&hide_border=true"
+  alt="Sharad's GitHub Streak"
+/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Shrdx&theme=tokyo-night&hide_border=true"
+  alt="Sharad's Contribution Graph"
+/>
+
 </div>
